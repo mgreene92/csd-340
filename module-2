@@ -1,78 +1,41 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
 <title>CSD 340 Development with HTML and CSS</title>
-
-<meta charset="UTF-8">
-
-<meta name="description" content="Assignment 2.2 Building a Web Page Exercise">
-
-<meta name="keywords" content="HTML, CSS, CSD340">
-
-<meta name="author" content="Meghan Greene">
-
-Greene_Mod2_2.css
-<link href="Greene_Mod2_2.css" type="text/css" rel="stylesheet">
+<meta name="robots" content="no follow" />
+<meta name="description" content="Module 2.2 Building a Web Page Exercise" />
+<meta name="keywords" content="HTML, CSS, CSD340" />
+<meta name="author" content="Meghan Greene" />
+<link href="Greene_Mod2_2.css" type="text/css" rel="stylesheet" />
 </head>
-
 <body>
-
 <div id="container">
-
 <h1>Assignment 2.2 - Building a Web Page Exercise, Part 2</h1>
-
 <h2>Introduction</h2>
-
 <p class="intro">
-
 My name is Meghan Greene. I am a student in the CSD 340 course. I ama mom to three children. I frequently paint and design processes.
 </p>
 <p>
 <span class="sentence">I grew up as a military child and moved around a lot as a result.</span>
-
 So I would not say that I have a permanent hometown to refer to. However, I have resided in Florida and Virginia the longest out of all places.
-
 </p>
-
 <p>
-
 I am actively involved in the community and volunteer at local organizations. My goal is to make a positive impact on the lives of others. I attend local events and meetings to stay connected with the community.
-
 </p>
-
 <p>
-
 In my free time I enjoy spending time with my family and working on creative projects. I also enjoy learning new technology skills and improving business processes. My career has provided many opportunities for growth and continuous learning.
-
 </p>
-
 <hr>
-
-<div>
+<div id="footer">
 <address>
-
 <p>
-
-<link href="https://www.bellevue.edu">
-
-Bellevue University
-
-</p>
-
+<a href="https://www.bellevue.edu">Bellevue University
+</a></p>
 <p>1000 Galvin Road South</p>
-
 <p>Bellevue, NE 68005</p>
-
 </address>
-
  </div>
-
 </div>
-
 </body>
-
 </html>
 
