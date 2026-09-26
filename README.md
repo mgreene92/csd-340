@@ -5,5 +5,6 @@ Repository for CSD340.
 <div>
   <ul>
   <li>Vianelis Martinez</li>
-  <li>Meghan Greene</div></li>
+  <li>Meghan Greene</li>
 </ul>
+</div>
