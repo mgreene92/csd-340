@@ -3,3 +3,30 @@ margin-top: 50px;
 margin-left: 100px;
 margin-right: 100px;
 }
+h1 {
+font-family: Arial, Verdana, sans-serif;
+color: #000000;
+font-weight: 700;
+background-color: #3c275a;
+border: 1px solid #d6a800;
+text-align: left;
+padding-top:10px;
+}
+h2 {
+font-family: Arial, Verdana, sans-serif;
+color: #000000;
+font-weight: 500;
+text-align: left;
+background-color: #3c275a;
+border: 1px solid #d6a800;
+padding-top: 10px;
+}
+h3, h4 {
+font-family: Arial, Verdana, sans-serif;
+color: #000000;
+font-weight: 200;
+background-color: #3c275a;
+color: white;
+border: 1px solid #d6a800;
+padding: 10px;
+}
