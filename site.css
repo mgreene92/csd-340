@@ -11,7 +11,8 @@ background-color: deeppink;
 border: 1px; solid: black;
 text-align: left;
 padding-top: 10px;
-padding-left: 25px;
+padding-left: 10px;
+padding-bottom: 10px;
 }
 h2 {
 font-family: Arial, Verdana, sans-serif;
@@ -21,7 +22,8 @@ text-align: left;
 background-color: deeppink;
 border: 1px; solid: black;
 padding-top: 10px;
-padding-left: 25px;
+padding-left: 10px;
+
 }
 h3, h4 {
 font-family: Arial, Verdana, sans-serif;
