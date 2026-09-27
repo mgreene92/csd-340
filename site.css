@@ -39,14 +39,14 @@ font-weight: 500;
 color: black;
 }
 a:link {text-decoration: none;
-color:royalblue;
+color:blue;
 font-weight: bold;}
 a:hover {
 	color: deeppink;
 	text-decoration: underline;
 }
 a:visited {
-	color: maroon;
+	color: darkblue;
 }
 a:active {
 	color: rebeccapurple;
