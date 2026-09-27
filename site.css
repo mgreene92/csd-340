@@ -41,8 +41,8 @@ a:hover {
 	text-decoration: underline;
 }
 a:visited {
-	color: deeppink;
+	color: indigo;
 }
 a:active {
-	color: deeppink;
+	color: darkpurple;
 }
