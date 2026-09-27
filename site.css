@@ -5,33 +5,37 @@ margin-right: 100px;
 }
 h1 {
 font-family: Arial, Verdana, sans-serif;
-color: white;
 font-weight: 700;
-background-color: royalblue;
+color: white;
+background-color: deeppink;
 border: 1px solid #d6a800;
 text-align: left;
 padding-top:10px;
 }
 h2 {
 font-family: Arial, Verdana, sans-serif;
+font-weight: 600;
 color: white;
-font-weight: 500;
 text-align: left;
-background-color: royalblue;
+background-color: deeppink;
 border: 1px solid #d6a800;
 padding-top: 10px;
 }
 h3, h4 {
 font-family: Arial, Verdana, sans-serif;
-color: white;
-font-weight: 200;
-background-color: royalblue;
+font-weight: 500;
+background-color: deeppink;
 color: white;
 border: 1px solid #d6a800;
 padding: 10px;
 }
+body {
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-weight: 500;
+color: black;
+}
 a:link {text-decoration: none;
-color:deeppink;}
+color:black;}
 a:hover {
 	color: deeppink;
 	text-decoration: underline;
@@ -42,4 +46,3 @@ a:visited {
 a:active {
 	color: darkgoldenrod;
 }
-
