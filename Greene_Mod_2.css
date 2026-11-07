@@ -60,7 +60,7 @@ font-style: italic;
     margin-top: 20px;
 }
 
-.button {
+button {
     display: inline-block;
     color: pink;
     text-decoration: none;
@@ -70,7 +70,7 @@ font-style: italic;
     transition: all 0.3s ease;
 }
 
-.button:hover {
+button:hover {
     background-color: white;
     transform: translateY(-2px);
 }
