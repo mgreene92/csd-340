@@ -11,6 +11,28 @@
 <meta name="keywords" content="HTML,CSS,CSD340">
 <meta name="author" content="Meghan-Greene">
 <link href="Greene_Mod_2.css" type="text/css" rel="stylesheet">
+    <script>
+        var word1 = "Student";
+        var word2 = "designing";
+        var word3 = "challenge";
+        var word4 = "learning";
+
+        function replaceWord1() {
+            document.getElementById("blank1").innerHTML = word1;
+        }
+
+        function replaceWord2() {
+            document.getElementById("blank2").innerHTML = word2;
+        }
+
+        function replaceWord3() {
+            document.getElementById("blank3").innerHTML = word3;
+        }
+
+        function replaceWord4() {
+            document.getElementById("blank4").innerHTML = word4;
+        }
+    </script>
 </head>
 <body>
 <div id="content">
@@ -18,27 +40,32 @@
 <h2>Meghan Greene</h2>
     <hr>
 <p class="intro">
-Meghan is a student in the CSD 340 course and a mom to three children. She frequently paints and designs.
+Meghan is a <span id="blank1">____________</span> in the CSD 340 course and a mom to three children. She frequently paints and designs.
 Meghan never seemed to stop moving. Between a full-time career, college courses, leadership responsibilities, and a growing creative business, 
 there was always another project waiting. Most people would have been overwhelmed, but Meghan found energy
 in building things, whether it was a new process at work, a resin art design, or a website created one step at a time.
 </p>
+    <button type="button" onclick="replaceWord1()">Reveal Word</button>
 <hr>
 <span class="sentence">By day, Meghan solved problems and helped people through work in the financial industry.</span>
 <p>By night, classrooms, craft tables, and GitHub projects competed for attention. While others 
-were winding down, Meghan might be writing a college paper, designing a custom resin piece, 
+were winding down, Meghan might be writing a college paper, <span id="blank2">____________</span> a custom resin piece, 
 or figuring out why a section of CSS wasn't behaving the way it should. The challenge wasn't 
 finding something to do. The challenge was finding enough hours in the day to do it all.</p>
+    <button type="button" onclick="replaceWord2()">Reveal Word</button>
 <hr>
     <p>What kept Meghan going was a belief that growth never really ends. Every completed assignment, 
 successful project, and lesson learned became another stepping stone toward bigger goals. Whether 
 leading initiatives at work, creating something unique for customers, or earning a degree one class 
-at a time, Meghan approached each challenge with determination, creativity, and just enough humor 
+at a time, Meghan approached each <span id="blank3">____________</span> with determination, creativity, and just enough humor 
 to enjoy the journey along the way.</p>
+    <button type="button" onclick="replaceWord3()">Reveal Word</button>
 <hr>
     <p>Meghan enjoys spending time with family and working on creative projects. She also enjoys learning new 
-technology skills and improving business processes. Her career has provided many opportunities for growth and continuous learning.</p>
+technology skills and improving business processes. Her career has provided many opportunities for growth and continuous <span id="blank4">____________</span>.</p>
 <hr>
+    <button type="button" onclick="replaceWord4()">Reveal Word</button>
+
 <div id="footer">
 <address>
 <p>
